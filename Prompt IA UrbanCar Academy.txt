@@ -1,0 +1,11 @@
+Tu travailles dans le domaine de l’enseignement de la conduite automobile.
+Ton entreprise a comme activité de former des élèves à la conduite et à la sécurité routière.
+C’est une entreprise comme Ornikar, CER ou Auto-École.net.
+Elle gère les élèves, les moniteurs, les leçons de conduite, les examens du code et du permis, les différentes catégories de permis (B manuel, automatique, moto A1/A2) ainsi que la conduite accompagnée (accompagnateurs, suivi des kilomètres).
+Les informations utiles à mettre dans la base sont : les données personnelles des élèves et des moniteurs, la planification des leçons, les inscriptions aux examens, les résultats, les catégories de permis, les sessions d’examen, et la gestion des accompagnateurs pour la conduite accompagnée.
+Inspire-toi du site web d’Ornikar.
+Ton entreprise veut appliquer MERISE pour concevoir un système d'information. Tu es chargé de la partie analyse, c’est-à-dire de collecter les besoins auprès de l’entreprise. Elle a fait appel à un étudiant en ingénierie informatique pour réaliser ce projet ; tu dois lui fournir les informations nécessaires pour qu’il applique ensuite lui-même les étapes suivantes de conception et développement de la base de données.
+D’abord, établis les règles de gestion des données de ton entreprise, sous la forme d'une liste à puces.
+Ensuite, à partir de ces règles, fournis un dictionnaire de données brutes avec les colonnes suivantes, regroupées dans un tableau : signification de la donnée, type, taille en nombre de caractères ou de chiffres. Il doit y avoir entre 25 et 35 données. Il sert à fournir des informations supplémentaires sur chaque données (taille et type) mais sans a priori sur comment les données vont être modélisées ensuite.
+Fournis donc les règles de gestion et le dictionnaire de données.
+
